@@ -1,21 +1,20 @@
 ## Mateo Sanchez
 
 ### 🚶🏽 About me
-
 - I am a Software Engineering student at Manchester Met, currently in my second year.
 - I love building side projects and challenging myself to constantly learn new things.
 - I love to swim, run bike and lift weights.
-- you can find out more about me [here](https://mateocodes.com)
+- you can find out more about me [here](https://mateocodes.com/about).
 
 ### 🚀 I’m currently working on
-#### - 🦁 CodeZoo: a full-stack web app built with Next.js where developers can earn gems and build a virtual zoo for hours spent coding their side projects.
-#### - 🎪 Eventitude: a full-stack Eventbrite app using Vue.js and Express.js.
-#### - 👁️ SortVis: a one-file website where users can visualise sorting algorithms.
+- 🦁 CodeZoo: a full-stack web app built with Next.js where developers can earn gems and build a virtual zoo for hours spent coding their side projects.
+- 🎪 Eventitude: a full-stack Eventbrite app using Vue.js and Express.js.
+- 👁️ SortVis: a one-file website where users can visualise sorting algorithms.
 
 ### 📫 Connect with Me
-#### - LinkedIn: [](https://www.linkedin.com/in/mateosanchezl)
-#### - Website: [](https://www.mateocodes.com)
-#### - Email: mateosanchez.msl@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mateosanchezl)
+- [Website](https://www.mateocodes.com)
+- Email: mateosanchez.msl@gmail.com
 
 ### 🛠️ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
