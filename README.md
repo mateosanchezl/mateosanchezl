@@ -8,7 +8,7 @@
 
 ### 🚀 I’m currently working on
 - 🦁 CodeZoo: a full-stack web app built with Next.js where developers can earn gems and build a virtual zoo for hours spent coding their side projects.
-- 🎪 Eventitude: a full-stack Eventbrite app using Vue.js and Express.js.
+- 🎪 Eventitude: a full-stack event booking app using Vue.js and Express.js.
 - 👁️ SortVis: a one-file website where users can visualise sorting algorithms.
 
 ### 📫 Connect with Me
