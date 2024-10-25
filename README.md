@@ -1,14 +1,21 @@
-## Hi there 👋
+## Mateo Sanchez
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateosanchezl&show_icons=true&hide_border=true&theme=radical)
+### 🚶🏽 About me
 
-
-Here are some ideas to get you started:
+- I am a Software Engineering student at Manchester Met, currently in my second year.
+- I love building side projects and challenging myself to constantly learn new things.
+- I love to swim, run bike and lift weights.
+- you can find out more about me [here](https://mateocodes.com)
 
 ### 🚀 I’m currently working on
 #### - 🦁 CodeZoo: a full-stack web app built with Next.js where developers can earn gems and build a virtual zoo for hours spent coding their side projects.
 #### - 🎪 Eventitude: a full-stack Eventbrite app using Vue.js and Express.js.
 #### - 👁️ SortVis: a one-file website where users can visualise sorting algorithms.
+
+### 📫 Connect with Me
+#### - LinkedIn: [](https://www.linkedin.com/in/mateosanchezl)
+#### - Website: [](https://www.mateocodes.com)
+#### - Email: mateosanchez.msl@gmail.com
 
 ### 🛠️ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,12 +33,3 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
