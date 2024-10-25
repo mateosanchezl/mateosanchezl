@@ -4,7 +4,7 @@
 - I am a Software Engineering student at Manchester Met, currently in my second year.
 - I love building side projects and challenging myself to constantly learn new things.
 - I love to swim, run bike and lift weights.
-- you can find out more about me [here](https://mateocodes.com/about).
+- You can find out more about me [here](https://mateocodes.com/about).
 
 ### 🚀 I’m currently working on
 - 🦁 CodeZoo: a full-stack web app built with Next.js where developers can earn gems and build a virtual zoo for hours spent coding their side projects.
